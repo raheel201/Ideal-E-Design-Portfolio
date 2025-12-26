@@ -37,7 +37,7 @@ export default function TimelineEvent({ positionTop, eventDate, eventAmount, bon
                     height="18" 
                     viewBox="0 0 6 6" 
                     className={`absolute top-7.25 transform -translate-y-1/2 fill-[#9BC1E3] ${align === 'left' ? '-right-4.5' : '-left-4.5'}`}
-                    style={align === 'right' ? { transform: 'scaleX(-1) translateY(-50%)' } : {}}
+                    style={align === 'right' ? { transform: 'scaleX(-1)' } : {}}
                 >
                     <polygon points="0,0 6,3 0,6" />
                 </svg>

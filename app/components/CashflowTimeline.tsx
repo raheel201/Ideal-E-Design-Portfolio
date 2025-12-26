@@ -42,7 +42,7 @@ const timelineMarkings: TimelineMarking[] = [
   {
     id: '2',
     positionTop: '551px',
-    cardsPositionTop: '539px',
+    cardsPositionTop: '531px',
     eventDate: '28 Dec 2025',
     eventAmount: '1,51,993.00',
     bonds: [
@@ -72,7 +72,7 @@ const timelineMarkings: TimelineMarking[] = [
   {
     id: '4',
     positionTop: '1176px',
-    cardsPositionTop: '1164px',
+    cardsPositionTop: '1156px',
     eventDate: '01 Aug 2026',
     eventAmount: '1,51,993.00',
     bonds: [
