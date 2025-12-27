@@ -1,5 +1,6 @@
-import CashflowTimeline from './components/CashflowTimeline';
+import { redirect } from 'next/navigation';
 
 export default function Home() {
-  return <CashflowTimeline />;
+  redirect('/portfolio/cashflow');
 }
+
